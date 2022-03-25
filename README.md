@@ -5,7 +5,7 @@ This tutorial aims to guide through Arduino's usage alongside of testing with OP
 ###step1:
 OPT3001, as an ambient light sensor, have a look at its data sheet to know:  
 its `INT`, `SDA`, `SCL`, `GND`, 'VDD' attach to which part on the Arduino Hardware Board.
-Then use Flexible Flat Cable （FFC）to attach the ports on the places on the board, in this case, `INT' -> 5V, `GND` -> 接地, 
+Then use Flexible Flat Cable （FFC）to attach the ports on the places on the board, in this case, `SQL' none, `GND` -> 接地, `VDD` -> 5V, `SDA` -> A4, `INT` -> A5, 
 
 ###step2: 
 connect the Arduino Hardware with the Arduino Software. 
