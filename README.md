@@ -8,7 +8,7 @@ its `INT`, `SDA`, `SCL`, `GND`, 'VDD' attach to which part on the Arduino Hardwa
 Then use Flexible Flat Cable （FFC）to attach the ports on the places on the board, in this case, `SQL' none, `GND` -> 接地, `VDD` -> 5V, `SDA` -> A4, `INT` -> A5, see the graph below
 <img src="https://user-images.githubusercontent.com/74641841/160038297-d9ab34fb-1281-4c35-9598-afa1bcf21b0a.jpg" width="200" height="200">
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74641841/160038297-d9ab34fb-1281-4c35-9598-afa1bcf21b0a.jpg" />
+  <img src="https://user-images.githubusercontent.com/74641841/160038297-d9ab34fb-1281-4c35-9598-afa1bcf21b0a.jpg" width="200" height="200"/>
 </p>
 ###step2: 
 connect the Arduino Hardware with the Arduino Software. 
